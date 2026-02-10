@@ -1,0 +1,10 @@
+language: "en-US"
+reviews:
+  profile: "chill" # Better for solo devs/small teams
+  auto_review:
+    enabled: true
+    drafts: false
+# Focus on your specific MERN/Next.js stack
+instructions: >
+  Focus on security, specifically SQL injection in apps/core 
+  and type safety between apps/lens and packages/validation.

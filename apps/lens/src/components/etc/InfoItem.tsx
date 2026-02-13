@@ -1,9 +1,10 @@
+import { LucideIcon } from "lucide-react";
 export default function InfoItem({
   icon: Icon,
   label,
   value,
 }: {
-  icon: React.ReactNode;
+  icon: LucideIcon;
   label: string;
   value: string;
 }) {
